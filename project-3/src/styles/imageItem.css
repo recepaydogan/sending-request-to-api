@@ -1,0 +1,6 @@
+.imageItemWrapper img {
+  object-fit: cover;
+  height: 200px;
+  width: 400px;
+  object-position: center;
+}
